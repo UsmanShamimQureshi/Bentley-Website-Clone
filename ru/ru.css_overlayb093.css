@@ -1,0 +1,304 @@
+.by_form.by_footer_form {
+  display: none !important;
+}
+#by_site_footer .by_col-3-6 {
+  width: 100%;
+}
+
+.by_site_nav_link,
+.by_form_subheadline,
+.by_form_module_headline {
+  font-family: "GalsWebLight", arial, helvetica, sans-serif; }
+
+.by_form_label.by_footer_form_label,
+.by_kmi_find_address,
+.by_form_submit,
+.by_form_headline {
+  font-family: "GalsWebBook", arial, helvetica, sans-serif; }
+
+.by_form_readonly_row .by_form_content {
+  font-family: "GalsWebLight"; }
+
+
+.by_hero_slider_wrapper .by_hero_title,
+.by_hero_slider_wrapper .by_hero_subtitle,
+.by_hero_title,
+.by_button_primary,
+.by_button_secondary,
+.by_footer_link,
+.by_footer_link--minor,
+.by_footer_copy.by_richtext,
+.by_footer_link__label,
+.by_footer_nav__heading,
+.by_article_block_title,
+.by_pinboard .by_pinboard_headline h2,
+.by_promoted_teaser_link_label,
+.by_article_headline,
+.by_article_link,
+.by_dealer_search_option_head,
+.by_dealer_headline,
+.by_map_infowindow_headline,
+.by_dealer_search_input_label,
+.by_dealer_search_input,
+.by_site_nav_link,
+.by_set_language span,
+.by_share_button,
+.by_back_top_link_label,
+.by_dealer_filter_wrapper .by_form_select_text,
+.by_site_navigation_link,
+.by_carousel_navigation h2,
+.by_navigation_tiles h2,
+.by_tool_belt_cta span,
+.by_dealer_openings_head,
+.by_dealer_department_type_head,
+.by_dealer_nav_back_button,
+.by_dealer_nav_global_dealer,
+.by_dealer_nav_global_dealer_bottom,
+.by_dealer_nav_link,
+.by_map_infowindow_button,
+.by_dealer_type_bar,
+.by_dealer_details_depart .by_opening_list,
+.by_dealer_details_openings_head,
+.by_dealer_search_suggestion li,
+.by_modelcomp_selectedmodels,
+.by_modelcomp_selector,
+.by_modelcomp_selector_item_title,
+.by_tab_link,
+.by_article_date,
+.by_article_navigate,
+.by_pinboard .by_pinboard_filter a,
+.by_pinboard .by_pinboard_pin h3,
+.by_pinboard .by_pinboard_pin h5,
+.by_cover_tile_label,
+.by_cover_label,
+.by_dealer_search_info_label,
+.by_dealer_filter_list,
+.by_hero_label,
+.by_site_tools_link span,
+.by_hero_pager,
+.by_tab_component_nav li,
+.by_model_carousel .by_swipeable_item,
+.by_contact_details .by_hero_title_small,
+.by_contact_details .by_contact_details_territory_selection_label,
+.by_contact_details .by_contact_details_department_headline,
+.by_form_1_col_teaser .by_teaser_content_container .by_teaser_content .by_teaser_headline,
+.by_sitemap_cluster__headline,
+.by_anchor_cta,
+.by_contact_teaser .by_contact_teaser_headline,
+.by_dealer_global_country,
+.by_global_dealer_locator ul li.back,
+.by_global_dealer_locator ul,
+.by_carousel_item h3,
+.by_mm_link,
+.by_mm_section_title,
+.by_gallery_caption,
+.by_opening_list,
+.by_dealer_distance,
+.by_dealer_address,
+.by_dealer_details_address,
+.by_inline_error .by_error_message,
+.by_dealer_search_notice,
+.by_dealer_locate_input,
+.by_dealer_direction_data,
+.by_dealer_opening_list,
+.by_headlineicon_top h2,
+.by_dealer_result_empty {
+  font-family: "GalsWebLight", arial, helvetica, sans-serif; }
+
+.by_cookie_headline,
+.by_cookie_options_link,
+.by_form_label.by_footer_form_label,
+.by_kmi_find_address,
+.by_form_submit,
+.by_gallery_toggle_btn,
+.by_dealer_search_suggestion li strong,
+.by_dealer_view_button,
+.by_model_carousel .by_swipeable_item.by_active .by_swipeable_item_title,
+.by_accordion_header,
+.by_sitemap_group__headline,
+.by_link_button,
+.by_mm_sitearea_link,
+.by_dealer_info li,
+.by_dealer_info_phone,
+ul.by_dealer_details_info li {
+  font-family: "GalsWebBook", arial, helvetica, sans-serif; }
+
+.by_dealer_empty_result,
+#by_dealer_error {
+  font-family: "GalsWebBold", arial, helvetica, sans-serif; }
+
+.by_autocomplete .autocomplete-suggestion {
+  font-family: "GalsWebBook", Arial, Sans-Serif; }
+
+.by_mm_siteareas,
+.by_mega_menu {
+  font-family: "GalsWebLight", arial, helvetica, sans-serif; }
+
+@media screen and (min-width: 1367px) {
+  .by_mm_nav_item_linktext,
+  .by_mm_nav_item_back_link,
+  .by_mm_inav_back .by_mm_inav_back_link {
+    font-family: "GalsWebBook", arial, helvetica, sans-serif; }
+
+  .by_mm_inav_item .by_mm_inav_item_link,
+  .by_site_tools_link {
+    font-family: "GalsWebLight", arial, helvetica, sans-serif; } }
+.by_hero_title,
+.by_article_block_title,
+.by_pinboard .by_pinboard_headline h2,
+.by_promoted_teaser_link_label,
+.by_article_headline,
+.by_article_link,
+.by_dealer_search_option_head,
+.by_dealer_headline,
+.by_map_infowindow_headline,
+.by_dealer_search_input_label,
+.by_dealer_search_input,
+.by_site_nav_link,
+.by_set_language span,
+.by_share_button,
+.by_back_top_link_label,
+.by_dealer_filter_wrapper .by_form_select_text,
+.by_site_navigation_link,
+.by_carousel_navigation h2,
+.by_navigation_tiles h2,
+.by_tool_belt_cta span,
+.by_dealer_openings_head,
+.by_dealer_department_type_head,
+.by_dealer_nav_back_button,
+.by_dealer_nav_global_dealer,
+.by_dealer_nav_global_dealer_bottom,
+.by_dealer_nav_link,
+.by_map_infowindow_button,
+.by_dealer_type_bar,
+.by_dealer_details_depart .by_opening_list,
+.by_dealer_details_openings_head,
+.by_dealer_search_suggestion li,
+.by_modelcomp_selectedmodels,
+.by_modelcomp_selector,
+.by_modelcomp_selector_item_title,
+.by_tab_link,
+.by_article_date,
+.by_article_navigate,
+.by_pinboard .by_pinboard_filter a,
+.by_pinboard .by_pinboard_pin h3,
+.by_pinboard .by_pinboard_pin h5,
+.by_cover_tile_label,
+.by_cover_label,
+.by_dealer_search_info_label,
+.by_dealer_filter_list,
+.by_hero_label,
+.by_site_tools_link span,
+.by_hero_pager,
+.by_tab_component_nav li,
+.by_model_carousel .by_swipeable_item,
+.by_contact_details .by_hero_title_small,
+.by_contact_details .by_contact_details_territory_selection_label,
+.by_contact_details .by_contact_details_department_headline,
+.by_form_1_col_teaser .by_teaser_content_container .by_teaser_content .by_teaser_headline,
+.by_sitemap_cluster__headline,
+.by_anchor_cta,
+.by_contact_teaser .by_contact_teaser_headline,
+.by_dealer_global_country,
+.by_global_dealer_locator ul li.back,
+.by_global_dealer_locator ul,
+.by_carousel_item h3,
+.by_mm_link,
+.by_mm_section_title,
+.by_gallery_caption,
+.by_opening_list,
+.by_dealer_distance,
+.by_dealer_address,
+.by_dealer_details_address,
+.by_inline_error .by_error_message,
+.by_dealer_search_notice,
+.by_dealer_locate_input,
+.by_dealer_direction_data,
+.by_dealer_opening_list,
+.by_headlineicon_top h2,
+.by_dealer_result_empty {
+  font-family: "GalsWebLight", arial, helvetica, sans-serif; }
+
+.by_cookie_headline,
+.by_cookie_options_link,
+.by_form_label.by_footer_form_label,
+.by_kmi_find_address,
+.by_form_submit,
+.by_gallery_toggle_btn,
+.by_dealer_search_suggestion li strong,
+.by_dealer_view_button,
+.by_model_carousel .by_swipeable_item.by_active .by_swipeable_item_title,
+.by_accordion_header,
+.by_sitemap_group__headline,
+.by_link_button,
+.by_mm_sitearea_link,
+.by_dealer_info li,
+.by_dealer_info_phone,
+ul.by_dealer_details_info li,
+.by_mm_nav_item_back_link {
+  font-family: "GalsWebBook", arial, helvetica, sans-serif; }
+
+.by_dealer_empty_result,
+#by_dealer_error {
+  font-family: "GalsWebBold", arial, helvetica, sans-serif; }
+
+.by_autocomplete .autocomplete-suggestion {
+  font-family: "GalsWebBook", Arial, Sans-Serif; }
+
+.by_mm_siteareas {
+  display: none;
+  width: 100%;
+  background-color: #fff;
+  position: absolute;
+  z-index: 9000;
+  text-align: left;
+  font-family: "GalsWebLight", arial, helvetica, sans-serif;
+  font-size: 16px;
+  text-transform: uppercase; }
+
+.by_mega_menu,
+.by_mm_inav_item .by_mm_inav_item_link,
+.by_mm_inav_back .by_mm_inav_back_link {
+  font-family: "GalsWebLight", arial, helvetica, sans-serif; }
+
+@media screen and (min-width: 1367px) {
+  .by_mm_nav_item_linktext,
+  .by_mm_nav_item_back_link,
+  .by_mm_inav_back .by_mm_inav_back_link {
+    font-family: "GalsWebBook", arial, helvetica, sans-serif; }
+
+  .by_mm_inav_item .by_mm_inav_item_link,
+  .by_site_tools_link {
+    font-family: "GalsWebLight", arial, helvetica, sans-serif; } }
+
+/* temp fix for BY-2390 */
+.by_richtext a {
+    text-decoration: underline;
+}
+
+.by_richtext a:hover {
+    text-decoration: none;
+}
+
+.by_richtext a:visited, .by_richtext a:active {
+    text-decoration: underline;
+    color: #7f988f;
+    border: 0;
+    outline: 0;
+}
+/* end temp fix for BY-2390 */
+
+/* Temporary fix for BY-2604 */
+.by_hero_container.by_video .by_play {
+  z-index: 3;
+}
+
+.by_responsive_image {
+  -webkit-backface-visibility: hidden;
+}
+/* End temporary fix for BY-2604 */
+
+/* temporary fix for: BYS-887 Home page carousel tiles not loading in Chrome/Edge */
+.by_homepage_tiles .by_cover_tile__half .by_cover_tile_img_inner img { width: 100%; }
+.by_homepage_tiles .by_cover_tile__half .by_cover_tile_img_inner img.by_visible { width: auto; }
+/* End temporary fix for: BYS-887  */

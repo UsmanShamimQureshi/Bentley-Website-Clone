@@ -1,0 +1,118 @@
+.by_language_selection { display: none; }
+img { color: rgba(0,0,0,0); }
+
+@media screen and (min-width: 1366px) {
+  .by_dealer_main_content {
+    width: 100%; 
+    margin: 0 0 40px;
+  }
+ .by_dealer_locator_inner {
+    padding: 0 30px;
+  }
+
+  #by_dealer_global_button {
+    left: 0;
+  }
+
+  .by_dealer_search_info_label {
+    padding-left: 0;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  #by_dealer_global_button {
+    left: 30px;
+  }
+  .by_dealer_direction_bar {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .by_dealer_search_filter {
+    padding-right: 0;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .by_article_video_content {
+     z-index: 1;
+  }
+}
+
+/* Attempt to fix single Model Carousel entries */
+ul.by_swipeable_list_container {
+   padding-left: 0;
+}
+
+ul.by_swipeable_list_container li.by_swipeable_item:first-child {
+   padding-left: 40px;
+}
+
+ul.by_swipeable_list_container li.by_swipeable_item:first-child:last-child {
+   padding-left: 0px;
+}
+/* End attempt */
+
+
+/* temporary fix for: BYS-887 Home page carousel tiles not loading in Chrome/Edge */
+.by_homepage_tiles .by_cover_tile__half .by_cover_tile_img_inner img { width: 100%; }
+.by_homepage_tiles .by_cover_tile__half .by_cover_tile_img_inner img.by_visible { width: auto; }
+/* End temporary fix for: BYS-887  */
+
+/* Temporary fix for BY-2434 */
+#by_dealer_locator.by_has_header_margin {
+   margin-top: 0px;
+}
+
+.by_button_more { 
+    margin-bottom: 0px;
+}
+
+.by_dealer_search_bar {
+    padding-top: 10px;
+}
+/* End of fix for BY-2434 */
+
+/* temporary fix for BY-2870 */
+
+.by-m-footer-copy .by_richtext {
+  font-size: 16px;
+}
+/* temporary fix for BY-2870 */
+
+/* Temporary fix for BM-3065 */
+@media screen and (min-width: 992px) {
+    .by-m-derivative-hero__title {
+        font-size: 30px;
+        line-height: 33px;
+    }
+}
+/* End of fix for BM-3065 */
+
+/* Temporary fix for BM-3070 */
+    .by_hero_pager {
+        top: -20px;
+    }
+/* End of fix for BM-3070 */
+
+/* Temporary fix for BM-3071 */
+.by-state-selected .by-m-engine-selection__img-overlay {
+    opacity: 0;
+}
+/* End of fix for BM-3071 */
+
+.by-m-key-features .by-h-derivative-sub-headline {
+    font-weight: 400; 
+  }
+
+/* Temporary fix for BMCC-2210 */
+.by_cc_swipeable_content {
+    margin-left: 1px;
+}
+/* End of fix for BMCC-2210 */
+
+/* Temporary fix for BMCC-2224 */
+.by_cc_carousel_item {
+    margin-left: 1px;
+}
+/* End of fix for BMCC-2224 */
+

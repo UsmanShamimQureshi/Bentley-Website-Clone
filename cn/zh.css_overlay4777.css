@@ -1,0 +1,36 @@
+.by_form.by_footer_form {
+  display: none !important;
+}
+#by_site_footer .by_col-3-6 {
+  width: 100%;
+}
+
+/* temporary fix for: BYS-887 Home page carousel tiles not loading in Chrome/Edge */
+.by_homepage_tiles .by_cover_tile__half .by_cover_tile_img_inner img { width: 100%; }
+.by_homepage_tiles .by_cover_tile__half .by_cover_tile_img_inner img.by_visible { width: auto; }
+/* End temporary fix for: BYS-887  */
+
+/* Temporary fix for BM-3065 */
+@media screen and (min-width: 992px) {
+    .by-m-derivative-hero__title {
+        font-size: 30px;
+        line-height: 33px;
+    }
+}
+/* End of fix for BM-3065 */
+
+/* Temporary fix for BM-3070 */
+    .by_hero_pager {
+        top: -20px;
+    }
+/* End of fix for BM-3070 */
+
+/* Temporary fix for BM-3071 */
+.by-state-selected .by-m-engine-selection__img-overlay {
+    opacity: 0;
+}
+/* End of fix for BM-3071 */
+
+.by-m-key-features .by-h-derivative-sub-headline {
+    font-weight: 400; 
+  }
